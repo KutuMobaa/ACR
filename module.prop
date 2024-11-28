@@ -1,0 +1,7 @@
+id=ACR
+name= ADVANCED CHANGE RESOLUTION
+version=V 5.8
+versionCode=20
+author= Kutu Moba
+description= ADVANCED CHANGE RESOLUTION [ ACTIVE/INACTIVE ]
+updateJson=https://raw.githubusercontent.com/KutuMobaa/ACR/main/update.json
