@@ -1,4 +1,4 @@
-# ACR [ ADVANCED CHANGE RESOLUTION ]
+# ACR [ ADVANCED CHANGE RESOLUTION ] bro
 
 *⦿ changing the resolution only when entering the game*
 
