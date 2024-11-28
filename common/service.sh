@@ -7,8 +7,10 @@ clear
 sleep 5
 $MODDIR/ACR 2>/dev/null
 
-# download module melalui channel atau grub telegram official Kutu Moba
+# download module melalui channel atau grub telegram Kutu Moba Official
 
+# Channel Official:
 # https://t.me/kutuMobaUpdate
 
+# Grub Official:
 # https://t.me/kutu_Moba57
