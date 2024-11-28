@@ -26,4 +26,4 @@
 *❖ This module only changes the screen resolution and dpi on rooted Android. If a game is banned due to changes in screen resolution and dpi, we Kutu Moba are not responsible.*
 
 
-# root only, do with your own risk
+# root only, do with your own risk bro
