@@ -1,3 +1,16 @@
+# ACR [ ADVANCED CHANGE RESOLUTION ] V5.9
+
+*fixed several paths that failed to load*
+
+*fixes menu display*
+
+*fixed issue of not detecting second dpi*
+
+
+
+
+
+
 # ACR [ ADVANCED CHANGE RESOLUTION ] V5.8
 
 *⦿ changing the resolution only when entering the game*
